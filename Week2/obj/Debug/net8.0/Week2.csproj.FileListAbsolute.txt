@@ -12,3 +12,4 @@ D:\Sparta\Week2\Week2\obj\Debug\net8.0\refint\Week2.dll
 D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.pdb
 D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.genruntimeconfig.cache
 D:\Sparta\Week2\Week2\obj\Debug\net8.0\ref\Week2.dll
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.sourcelink.json

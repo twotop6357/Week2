@@ -221,7 +221,7 @@
             }
             public void UnequipItemDp(int dp)
             {
-                this.itemHp -= dp;
+                this.itemDp -= dp;
             }
             public void EquipItemHp(int hp)
             {
@@ -351,6 +351,7 @@
                                 if (inventory == null)
                                 {
                                     Console.WriteLine("아이템이 없습니다.");
+                                    Thread.Sleep(500);
                                     break;
                                 }
                                 else
@@ -578,7 +579,6 @@
                 this.shop.Add(item9);
                 Item item10 = new Item("투구", "장비의 투구", 0, 45, 15, 5000, "장비가 착용했다고 전해지는 투구");
                 this.shop.Add(item10);
-
             }
         }
         
