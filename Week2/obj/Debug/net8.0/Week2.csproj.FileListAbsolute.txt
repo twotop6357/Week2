@@ -1,0 +1,14 @@
+D:\Sparta\Week2\Week2\bin\Debug\net8.0\Week2.exe
+D:\Sparta\Week2\Week2\bin\Debug\net8.0\Week2.deps.json
+D:\Sparta\Week2\Week2\bin\Debug\net8.0\Week2.runtimeconfig.json
+D:\Sparta\Week2\Week2\bin\Debug\net8.0\Week2.dll
+D:\Sparta\Week2\Week2\bin\Debug\net8.0\Week2.pdb
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.AssemblyInfoInputs.cache
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.AssemblyInfo.cs
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.csproj.CoreCompileInputs.cache
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.dll
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\refint\Week2.dll
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.pdb
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\Week2.genruntimeconfig.cache
+D:\Sparta\Week2\Week2\obj\Debug\net8.0\ref\Week2.dll

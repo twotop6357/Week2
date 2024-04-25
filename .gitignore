@@ -1,0 +1,23 @@
+# Visual Studio files
+.vs/
+*.vscode/
+*_i.c
+*_p.c
+*.pidb
+*.log
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ReSharper files
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+# Rider files
+.idea/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
